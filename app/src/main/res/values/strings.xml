@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jalan Yuk</string>
+    <string name="mylearning">MyLearning.</string>
+    <string name="image_login">image_login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_you_have_an_account_create">Don\'t you have an account? Create</string>
+    <string name="hello_tom">Hello  </string>
+    <string name="start_learning_now">Start learning now</string>
+    <string name="swipe_up">SWIPE UP</string>
+    <string name="ilustrasi_welcome">ilustrasi_welcome</string>
+    <string name="bottom_welcome">bottom_welcome</string>
+    <string name="textview">Guest,</string>
+    <string name="guest">Guest,</string>
+    <string name="enal">Enal</string>
+</resources>
